@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application6</string>
+    <string name="text_empty">Заголовок или содержание не заполено</string>
+    <string name="saved">Сохранено</string>
+</resources>
